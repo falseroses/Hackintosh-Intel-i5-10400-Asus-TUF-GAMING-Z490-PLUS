@@ -1,5 +1,5 @@
 # Hackintosh-Intel-i5-10400-Asus-TUF-GAMING-Z490-PLUS
-![About this mac](Docs/photo_2021-04-15 20.48.38.png)
+(Docs/photo_2021-04-15 20.48.38.png)
 
 # Hardware
 - CPU: Intel Core i5 10400
@@ -30,4 +30,4 @@ Kernel --> Quirks --> DisableRtcChecksum = True
 - Audio:
 alcid=2
 - iGPU Framebuffer:
-![About this mac](Docs/photo_2021-04-15 20.48.35.png)
+(Docs/photo_2021-04-15 20.48.35.png)
