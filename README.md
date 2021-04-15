@@ -1,5 +1,5 @@
 # Hackintosh-Intel-i5-10400-Asus-TUF-GAMING-Z490-PLUS
-(Docs/photo_2021-04-15 20.48.38.png)
+![alt text](https://raw.githubusercontent.com/falseroses/Hackintosh-Intel-i5-10400-Asus-TUF-GAMING-Z490-PLUS/main/Docs/photo_2021-04-15%2020.48.38.png)
 
 # Hardware
 - CPU: Intel Core i5 10400
