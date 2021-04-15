@@ -27,8 +27,10 @@
 
 # Tips (thanks to u/kohnor):
 - Fix “F1” Startup Error:
+
 Kernel --> Quirks --> DisableRtcChecksum = True
 - Audio:
+
 alcid=2
 - iGPU Framebuffer:
 
