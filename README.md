@@ -30,4 +30,5 @@ Kernel --> Quirks --> DisableRtcChecksum = True
 - Audio:
 alcid=2
 - iGPU Framebuffer:
+
 ![alt text](https://raw.githubusercontent.com/falseroses/Hackintosh-Intel-i5-10400-Asus-TUF-GAMING-Z490-PLUS/main/Docs/photo_2021-04-15%2020.48.35.png)
