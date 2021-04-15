@@ -5,6 +5,7 @@
 - CPU: Intel Core i5 10400
 - Motherboard: Asus TUF Gaming Z490-Plus
 - RAM: HyperX 32GB 3200 MHz
+- SSD: Samsung 970 Evo Plus 250Gb M.2
 - iGPU: Intel UHD Graphics 630
 
 
